@@ -1,0 +1,13 @@
+name: sears_env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - numpy==1.21.*
+  - scipy==1.7.*
+  - matplotlib==3.5.*
+  - Pillow==9.2.*
+  - pyvista==0.37.*
+  - nexusformat==0.7.*
