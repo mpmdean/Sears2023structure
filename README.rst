@@ -1,11 +1,11 @@
 ==========================================================
 Data Repository
 ==========================================================
-Source code and data files for the manuscript Structure of Charge Density Waves in La1.875Ba0.125CuO4. Execute plot.ipynb to view the data.
+Source code and data files for the manuscript Structure of Charge Density Waves in La1.875Ba0.125CuO4, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, E. S. Bozin, I. K. Robinson, G. D. Gu, R. Osborn, S. Rosenkranz, J. M. Tranquada, and M. P. M. Dean. Execute the *.ipynb files to view the data.
 
 How to cite
 -----------
-If this data is used, please cite, 
+If this data is used, please cite, Structure of Charge Density Waves in La1.875Ba0.125CuO4 J. Sears, Y. Shen, M. J. Krogstad, H. Miao, E. S. Bozin, I. K. Robinson, G. D. Gu, R. Osborn, S. Rosenkranz, J. M. Tranquada, and M. P. M. Dean, Phys. Rev. B (2023)
 
 
 Run locally
