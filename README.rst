@@ -30,4 +30,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/Sears2023role/HEAD?filepath=fig1.ipynb
+ :target: https://mybinder.org/v2/gh/mpmdean/Sears2023structure/HEAD
