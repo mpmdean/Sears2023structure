@@ -28,3 +28,6 @@ The large datafile is stored using `git lfs <https://git-lfs.com/>`_. Download t
 
 Run remotely
 ------------
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/mpmdean/Sears2023role/HEAD?filepath=fig1.ipynb
